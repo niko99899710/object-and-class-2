@@ -3,7 +3,7 @@ import java.util.Objects;
 public class Book {
     private String nameBook;
     private Author author;
-    int age;
+    private int age;
 
     public Book (String nameBook1, Author author, int age1) {
         this.nameBook = nameBook1;
